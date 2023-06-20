@@ -4,6 +4,7 @@
 public Helper helper;
 ```
 
+### onCreate
 ```
 helper = new Helper(MainActivity.this);
 ```
