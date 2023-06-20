@@ -1,1 +1,1 @@
-# helper_full_screen_ads
+# helper full screen ads
